@@ -1,0 +1,2 @@
+# Projeto-Base-Organizador-de-Declara-o-de-Imposto-de-Renda
+Esta planilha foi desenvolvida com o objetivo de facilitar a organização das informações necessárias para a declaração do Imposto de Renda, por meio de uma ferramenta inteligente e automatizada no Excel. A solução permite ao usuário reunir dados relevantes do contribuinte e seus dependentes de forma prática, intuitiva e com navegação facilitada.
