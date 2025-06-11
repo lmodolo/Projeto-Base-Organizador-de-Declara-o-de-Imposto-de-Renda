@@ -48,7 +48,6 @@ Antes de finalizar a planilha, certifique-se de:
 - [ ] Cadastrar todos os dependentes que serão incluídos na declaração.
 - [ ] Preencher todos os informes financeiros de acordo com os documentos recebidos.
 - [ ] Registrar os valores de notas e comprovantes de rendimento adicionais.
-- [ ] Conferir a aba de **resumo** (caso aplicável) para validar os dados consolidados.
 
 ---
 
